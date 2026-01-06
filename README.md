@@ -44,7 +44,7 @@ graph TD
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/travel-planner.git
+git clone https://github.com/LennartFiebig/travel-planner.git
 cd travel-planner
 ```
 
