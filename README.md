@@ -40,15 +40,6 @@ graph TD
 
 ## Setup
 
-### Prerequisites
-
-- Python 3.10+
-- Poetry
-- API keys for:
-  - Anthropic (LLM)
-  - Tavily (web search)
-  - Langfuse (optional, for tracing)
-
 ### Installation
 
 1. Clone the repository:
