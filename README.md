@@ -79,7 +79,7 @@ LANGFUSE_HOST=https://cloud.langfuse.com
 
 Run the web application:
 ```bash
-poetry run streamlit run travel_planner/app.py
+poetry run streamlit run app.py
 ```
 
 Then open http://localhost:8501 in your browser.
