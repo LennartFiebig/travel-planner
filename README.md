@@ -7,7 +7,7 @@ This Travel Planner consist of 3 agents:
 - Takes an input question and tries to answer it with the help of an integrated Tavily Search tool. Returns its findings in Markdown format.
 
 ### 2. Planner 
-- To be precise not agent but one LLM call
+- To be precise not an agent but one LLM call
 - Returns a detailed Travel plan including flights, accomondation and a day to day intineary given the full message history of the orchestrator.
 
 ### 3. Orchestrator: 
