@@ -37,8 +37,16 @@ graph TD
     planner --> __end__([__end__])
 ```
 
-
 ## Setup
+
+### Prerequisites
+
+- Python 3.10+
+- Poetry
+- API keys for:
+  - OpenAI or Anthropic (LLM)
+  - Tavily (web search)
+  - Langfuse (optional, for tracing)
 
 ### Installation
 
